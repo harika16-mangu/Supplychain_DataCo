@@ -4,6 +4,7 @@ Hey there! 👋
 In this project, I explored DataCo's supply chain 🚚 data (2015–2018) to uncover why their sales were declining — and guess what? Late deliveries turned out to be a major culprit!
 
 💡 Why I Did This
+
 I was curious to see how delivery issues affect business performance. This analysis helped me connect the dots between shipping delays, customer behavior, and sales drop-offs.
 
 🔍 What I Did
