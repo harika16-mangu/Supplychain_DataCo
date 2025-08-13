@@ -12,6 +12,7 @@ I was curious to see how delivery issues affect business performance. This analy
 2. Data Preprocessing: Performed EDA on delivery risks, shipping modes, order patterns, and customer segments
 3. Data Exploration: Predicted late delivery risk using other parameters in the dataset
 4. Data Visualization: Created actionable insights and visualizations to show what’s impacting performance
+5. Predictive Modeling: Performed statistical Analysis and created a predictive model to classify the records based on late deliveries.
 
 📈 Key Takeaways
 1. Late deliveries significantly impacted sales
